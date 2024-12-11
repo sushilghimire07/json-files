@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Bara District Hospital",
+      "location": "Kalaiya, Bara",
+      "contact_info": {
+        "phone": "+977 51 520107",
+        "email": "info@baradistricthospital.com",
+        "website": "http://baradistricthospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Narayani Hospital",
+      "location": "Birgunj, Bara",
+      "contact_info": {
+        "phone": "+977 51 522588",
+        "email": "contact@narayanihospital.com",
+        "website": "http://narayanihospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

@@ -1,0 +1,24 @@
+[
+    {
+      "name": "Bhojpur District Hospital",
+      "location": "Bhojpur, Eastern Nepal",
+      "contact_info": {
+        "phone": "029-420188",
+        "email": "Not available",
+        "website": "Not available"
+      },
+      "emergency_service": true,
+      "type": "Government Hospital"
+    },
+    {
+      "name": "Mahatma Gandhi Memorial Hospital",
+      "location": "Bhojpur",
+      "contact_info": {
+        "phone": "Not available",
+        "email": "Not available"
+      },
+      "emergency_service": true,
+      "type": "General Hospital"
+    }
+  ]
+  

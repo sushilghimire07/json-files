@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Sanvi City Hospital",
+      "location": "Itahari-16, Labipur Chowk, Koshi Pradesh, Nepal",
+      "contact_info": {
+        "phone": "+977-25-585444",
+        "email": "info@sanvicityhospital.com.np",
+        "website": "https://sanvicityhospital.com.np/"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Nobel Medical College Teaching Hospital",
+      "location": "Biratnagar, Sunsari, Koshi Province, Nepal",
+      "contact_info": {
+        "phone": "+977-21-520801",
+        "email": "nobel@tmc.edu.np",
+        "website": "https://www.nobelmedicalcollege.edu.np/"
+      },
+      "emergency_service": true,
+      "type": "Teaching Hospital"
+    },
+    {
+      "name": "B & B Hospital",
+      "location": "Itahari, Sunsari, Nepal",
+      "contact_info": {
+        "phone": "+977 25-585101",
+        "email": "info@bbhospital.com.np",
+        "website": "http://bbhospital.com.np/"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Biratnagar Cancer Hospital",
+      "location": "Biratnagar, Sunsari, Nepal",
+      "contact_info": {
+        "phone": "+977 21-526420",
+        "email": "info@biratnagarcancerhospital.com",
+        "website": "http://biratnagarcancerhospital.com/"
+      },
+      "emergency_service": true,
+      "type": "Specialty Hospital"
+    }
+  ]
+  

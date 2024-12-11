@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Panchthar District Hospital",
+      "location": "Phidim, Panchthar",
+      "contact_info": {
+        "phone": "+977 024-520188",
+        "email": "Not listed",
+        "website": "http://panchtharhospital.p1.gov.np"
+      },
+      "emergency_service": true,
+      "type": "District Hospital"
+    },
+    {
+      "name": "Panchthar Hospital",
+      "location": "Phidim, Panchthar",
+      "contact_info": {
+        "phone": "Not listed",
+        "email": "Not listed",
+        "website": "Not available"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

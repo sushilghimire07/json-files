@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Lamjung District Hospital",
+      "location": "Besisahar, Lamjung",
+      "contact_info": {
+        "phone": "+977 65 520030",
+        "email": "info@lamjungdistricthospital.com",
+        "website": "http://lamjungdistricthospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Pokhara Health Care Centre",
+      "location": "Besisahar, Lamjung",
+      "contact_info": {
+        "phone": "+977 65 520210",
+        "email": "info@pokharahealthcare.com",
+        "website": "http://pokharahealthcare.com"
+      },
+      "emergency_service": true,
+      "type": "Healthcare Centre"
+    }
+  ]
+  

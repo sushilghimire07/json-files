@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Dhulikhel Hospital",
+      "location": "Dhulikhel, Kavrepalanchowk",
+      "contact_info": {
+        "phone": "+977-11-661700",
+        "website": "https://www.dhulikhelhospital.org"
+      },
+      "emergency_service": true,
+      "type": "General Hospital"
+    },
+    {
+      "name": "Methinkot Hospital",
+      "location": "Namobuddha Municipality-04, Kavrepalanchowk",
+      "contact_info": {
+        "phone": "9845368008",
+        "email": "zealousrams@gmail.com"
+      },
+      "emergency_service": true,
+      "type": "General Hospital"
+    }
+  ]
+  

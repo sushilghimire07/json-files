@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Rautahat District Hospital",
+      "location": "Gaur, Rautahat",
+      "contact_info": {
+        "phone": "+977 55 520126",
+        "email": "info@rautahatdistricthospital.com",
+        "website": "http://rautahatdistricthospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Shree Harsha Hospital",
+      "location": "Rautahat, Gaur",
+      "contact_info": {
+        "phone": "+977 55 520527",
+        "email": "contact@shreeharshahospital.com",
+        "website": "http://shreeharshahospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

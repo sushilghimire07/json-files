@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Rukum East Hospital",
+      "location": "Rukum East, Nepal",
+      "contact_info": {
+        "phone": "Not specified",
+        "email": "Not specified",
+        "website": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Chaurjahari Hospital",
+      "location": "Chaurjahari, West Rukum District",
+      "contact_info": {
+        "phone": "Not specified",
+        "email": "Not specified",
+        "website": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

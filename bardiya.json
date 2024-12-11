@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Bardiya Hospital",
+      "location": "Gulariya Municipality-6, Bardiya",
+      "contact_info": {
+        "phone": "+977-9858032177",
+        "email": "bardiyahospital@lumbini.gov.np",
+        "website": "http://bardiyahospital.gov.np"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Bardiya Eye Hospital",
+      "location": "Sanoshree, Madhuwan Municipality-6, Bardiya",
+      "contact_info": {
+        "phone": "+977-084-440313",
+        "email": "netrajotibardiya@gmail.com",
+        "website": "http://nnjs.org.np"
+      },
+      "emergency_service": false,
+      "type": "Eye Hospital"
+    }
+  ]
+  

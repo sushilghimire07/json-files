@@ -1,0 +1,57 @@
+[
+    {
+      "name": "District Hospital Gulmi",
+      "location": "Tamghas, Gulmi",
+      "contact_info": {
+        "phone": "+977 79-520050"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Eye Hospital Tamghas",
+      "location": "Tamghas, Gulmi",
+      "contact_info": {
+        "phone": "Not specified"
+      },
+      "emergency_service": false,
+      "type": "Hospital"
+    },
+    {
+      "name": "Johang Primary Hospital",
+      "location": "Johang, Gulmi",
+      "contact_info": {
+        "phone": "Not specified"
+      },
+      "emergency_service": false,
+      "type": "Hospital"
+    },
+    {
+      "name": "Resunga Hospital",
+      "location": "Bus Park, Tamghas, Gulmi",
+      "contact_info": {
+        "phone": "Not specified"
+      },
+      "emergency_service": false,
+      "type": "Hospital"
+    },
+    {
+      "name": "District Ayurveda Health Center Gulmi",
+      "location": "Tamghas-6, Gulmi",
+      "contact_info": {
+        "phone": "+977 79-520050"
+      },
+      "emergency_service": false,
+      "type": "Hospital"
+    },
+    {
+      "name": "Madhane Community Health Center",
+      "location": "Madhane, Gulmi",
+      "contact_info": {
+        "phone": "Not specified"
+      },
+      "emergency_service": false,
+      "type": "Health Center"
+    }
+  ]
+  

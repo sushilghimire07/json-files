@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Kist Medical College Teaching Hospital",
+      "location": "Imadol, Kathmandu",
+      "contact_info": {
+        "phone": "+977 1 5210166",
+        "email": "contact@kistmedicalcollege.com",
+        "website": "http://kistmedicalcollege.com"
+      },
+      "emergency_service": true,
+      "type": "Teaching Hospital"
+    },
+    {
+      "name": "Norvic International Hospital",
+      "location": "Thapathali, Kathmandu",
+      "contact_info": {
+        "phone": "+977 1 4253999",
+        "email": "info@norvichospital.com",
+        "website": "http://norvichospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "The Brain Hospital",
+      "location": "Lazimpat, Kathmandu",
+      "contact_info": {
+        "phone": "+977 1 4427972",
+        "email": "info@brainhospital.com.np",
+        "website": "http://brainhospital.com.np"
+      },
+      "emergency_service": true,
+      "type": "Specialized Hospital"
+    },
+    {
+      "name": "Medicare National Hospital and Research Center",
+      "location": "Balkumari, Kathmandu",
+      "contact_info": {
+        "phone": "+977 1 5527001",
+        "email": "info@medicarehospital.com.np",
+        "website": "http://medicarehospital.com.np"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Shree Harsha Hospital",
+      "location": "Bhatbhateni, Kathmandu",
+      "contact_info": {
+        "phone": "+977 1 4356575",
+        "email": "info@shreeharshahospital.com",
+        "website": "http://shreeharshahospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

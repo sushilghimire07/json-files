@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Sankhuwasabha District Hospital",
+      "location": "Khandbari, Shankhuwasabha",
+      "contact_info": {
+        "phone": "+977 29 419001",
+        "email": "info@shankhuwasabhadistricthospital.com",
+        "website": "http://shankhuwasabhadistricthospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Makalu Hospital",
+      "location": "Seduwa, Makalu Valley, Shankhuwasabha",
+      "contact_info": {
+        "phone": "+977 29 460257",
+        "email": "contact@soshimalaya.org",
+        "website": "http://www.soshimalaya.org"
+      },
+      "emergency_service": false,
+      "type": "Hospital"
+    }
+  ]
+  

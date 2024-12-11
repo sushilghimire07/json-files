@@ -1,0 +1,25 @@
+[
+    {
+      "name": "District Hospital Bajura",
+      "type": "Hospital",
+      "location": "Martadi, Bajura",
+      "contact_info": {
+        "phone": "Not specified",
+        "email": "Not specified",
+        "website": "Not available"
+      },
+      "emergency_service": true
+    },
+    {
+      "name": "Primary Health Centre, Kolti",
+      "type": "Clinic",
+      "location": "Kolti, Bajura",
+      "contact_info": {
+        "phone": "Not specified",
+        "email": "Not specified",
+        "website": "Not available"
+      },
+      "emergency_service": true
+    }
+  ]
+  

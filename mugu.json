@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Mugu District Hospital",
+      "location": "Mugu, Karnali Province, Nepal",
+      "contact_info": {
+        "phone": "Not specified",
+        "email": "Not specified",
+        "website": "Not specified"
+      },
+      "type": "Hospital",
+      "emergency_service": true
+    },
+    {
+      "name": "KOICA-Supported Hospital",
+      "location": "Mugu, Karnali Province, Nepal",
+      "contact_info": {
+        "phone": "Not specified",
+        "email": "Not specified",
+        "website": "Not specified"
+      },
+      "type": "Hospital",
+      "emergency_service": true
+    }
+  ]
+  

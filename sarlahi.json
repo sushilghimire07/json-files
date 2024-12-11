@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Sarlahi District Hospital",
+      "location": "Malangwa, Sarlahi",
+      "contact_info": {
+        "phone": "+977 46 520130",
+        "email": "info@sarlahidistricthospital.com",
+        "website": "http://sarlahidistricthospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Vishal Hospital",
+      "location": "Malangwa, Sarlahi",
+      "contact_info": {
+        "phone": "+977 46 520291",
+        "email": "contact@vishalhospital.com",
+        "website": "http://vishalhospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

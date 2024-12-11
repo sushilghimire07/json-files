@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Gorkha District Hospital",
+      "location": "Gorkha Bazar, Gorkha",
+      "contact_info": {
+        "phone": "+977 64 420258",
+        "email": "info@gorkhadistricthospital.com",
+        "website": "http://gorkhadistricthospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Siddhi Memorial Hospital",
+      "location": "Gorkha Bazar, Gorkha",
+      "contact_info": {
+        "phone": "+977 64 420194",
+        "email": "contact@siddhimemorialhospital.com",
+        "website": "http://siddhimemorialhospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

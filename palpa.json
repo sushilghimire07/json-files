@@ -1,0 +1,13 @@
+[
+    {
+      "name": "United Mission Hospital Tansen (UMHT)",
+      "location": "Bhusaldanda, Tansen, Palpa",
+      "contact_info": {
+        "phone": "+977-75-520111",
+        "website": "http://www.umn.org.np"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

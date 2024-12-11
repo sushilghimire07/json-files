@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Bayalpata Hospital",
+      "location": "Sanfebagar, Achham",
+      "contact_info": {
+        "phone": "+977-977-5262520",
+        "email": "info@possiblehealth.org",
+        "website": "https://possiblehealth.org/"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Mangalsen Hospital",
+      "location": "Mangalsen, Achham",
+      "contact_info": {
+        "phone": "Not specified",
+        "email": "Not specified",
+        "website": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

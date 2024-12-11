@@ -1,0 +1,35 @@
+[
+    {
+      "name": "Province Hospital Bhadrapur",
+      "location": "Bhadrapur-8, Koshi Province, Nepal",
+      "contact_info": {
+        "phone": "+977 023 523024",
+        "email": "info.provincehospitalbhadrapur@koshi.gov.np",
+        "website": "https://provincehospital.koshi.gov.np"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Purbanchal Cancer Hospital",
+      "location": "Birtamode-5, Jhapa, Nepal",
+      "contact_info": {
+        "phone": "+977 9801406708",
+        "website": "http://Purbanchalcancerhospital.org"
+      },
+      "emergency_service": true,
+      "type": "Cancer Hospital"
+    },
+    {
+      "name": "Mechi Eye Hospital",
+      "location": "Birtamode-03, Jhapa, Nepal",
+      "contact_info": {
+        "phone": "+977 023 541992",
+        "email": "meh@meh.org.np",
+        "website": "https://meh.org.np"
+      },
+      "emergency_service": true,
+      "type": "Eye Hospital"
+    }
+  ]
+  

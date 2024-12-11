@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Karnali Province Hospital",
+      "location": "Birendranagar-4, Kalagaun, Surkhet",
+      "contact_info": {
+        "phone": ["083-523200", "083-522200", "083-520200"],
+        "website": "https://provincehospital.karnali.gov.np"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Nepal Red Cross Society, Surkhet Eye Hospital",
+      "location": "Birendranagar, Surkhet",
+      "contact_info": {
+        "phone": "083-520513",
+        "website": "https://surkheteyehospital.org.np"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Shining Hospital INF Surkhet (SH-IS)",
+      "location": "Birendranagar, Surkhet",
+      "contact_info": {
+        "phone": "Not specified",
+        "website": "https://www.inf.org/shis/"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

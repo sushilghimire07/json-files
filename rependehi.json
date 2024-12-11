@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Siddharthanagar City Hospital",
+      "location": "Mayadevi Gaupalika-8, Lumbini Road, Bhairahawa, Rupandehi",
+      "contact_info": {
+        "phone": "+977 71576375",
+        "email": "info@cityhospital.com.np",
+        "website": "http://cityhospital.com.np"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Edmond City Hospital",
+      "location": "Jeetgadhi, Butwal-13, Rupandehi",
+      "contact_info": {
+        "phone": "071445554, 9742907753",
+        "email": "edmondbtl@gmail.com",
+        "website": "https://ech.com.np/edmond-city-hospital-location/"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Arghakhanchi Hospital",
+      "location": "Sandhikharka, Arghakhanchi",
+      "contact_info": {
+        "phone": "Not specified",
+        "website": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "Hospital",
+      "services": [
+        "24-hour lab services",
+        "X-ray services",
+        "Physiotherapy",
+        "Dental services",
+        "Surgery services"
+      ]
+    },
+    {
+      "name": "Kur Basic Health Center",
+      "location": "Sandhikharka, Arghakhanchi",
+      "contact_info": {
+        "phone": "Not specified",
+        "website": "Not specified"
+      },
+      "emergency_service": false,
+      "type": "Health Center",
+      "services": [
+        "Basic healthcare services"
+      ]
+    }
+  ]
+  

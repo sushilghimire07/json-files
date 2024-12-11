@@ -1,0 +1,24 @@
+[
+    {
+      "name": "Mustang District Hospital",
+      "location": "Jomsom, Mustang",
+      "contact_info": {
+        "phone": "Not available",
+        "email": "Not available",
+        "website": "Not available"
+      },
+      "emergency_service": true,
+      "type": "District Hospital"
+    },
+    {
+      "name": "Dhaulagiri Zonal Hospital",
+      "location": "Baglung (serving Mustang)",
+      "contact_info": {
+        "phone": "068-520188",
+        "website": "https://dhaulagirizonalhospital.gov.np"
+      },
+      "emergency_service": true,
+      "type": "Zonal Hospital"
+    }
+  ]
+  

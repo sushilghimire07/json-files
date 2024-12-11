@@ -1,0 +1,36 @@
+[
+    {
+      "name": "Chitwan District Hospital",
+      "location": "Bharatpur, Chitwan",
+      "contact_info": {
+        "phone": "+977 56 520126",
+        "email": "info@chitwandistricthospital.com",
+        "website": "http://chitwandistricthospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Narayani Hospital",
+      "location": "Bharatpur, Chitwan",
+      "contact_info": {
+        "phone": "+977 56 522101",
+        "email": "contact@narayanihospital.com",
+        "website": "http://narayanihospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Chitwan Medical College Teaching Hospital",
+      "location": "Bharatpur, Chitwan",
+      "contact_info": {
+        "phone": "+977 56 526601",
+        "email": "info@cmcth.com",
+        "website": "http://cmcth.com"
+      },
+      "emergency_service": true,
+      "type": "Teaching Hospital"
+    }
+  ]
+  

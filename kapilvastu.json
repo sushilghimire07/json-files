@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Kapilvastu Hospital",
+      "location": "Kapilvastu, Nepal",
+      "contact_info": {
+        "phone": "Not specified",
+        "website": "https://kapilvastuhospital.p5.gov.np"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Taulihawa Eye Hospital",
+      "location": "Netrajyoti Path, Aanandbag-3, Taulihawa, Kapilvastu",
+      "contact_info": {
+        "phone": "+977 7656 0953",
+        "email": "pecckapilvastu@lei.org.np"
+      },
+      "emergency_service": false,
+      "type": "Eye Hospital"
+    }
+  ]
+  

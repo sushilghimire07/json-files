@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Rasuwa District Hospital",
+      "location": "Dhunche, Rasuwa",
+      "contact_info": {
+        "phone": "+977 10 410236",
+        "email": "info@rasuwadistricthospital.com",
+        "website": "http://rasuwadistricthospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Langtang Hospital",
+      "location": "Dhunche, Rasuwa",
+      "contact_info": {
+        "phone": "+977 10 410328",
+        "email": "contact@langtanghospital.com",
+        "website": "http://langtanghospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Tamang Memorial Hospital",
+      "location": "Dhunche, Rasuwa",
+      "contact_info": {
+        "phone": "+977 10 410420",
+        "email": "info@tamangmemorialhospital.com",
+        "website": "http://tamangmemorialhospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Rasuwa Community Hospital",
+      "location": "Dhunche, Rasuwa",
+      "contact_info": {
+        "phone": "+977 10 410150",
+        "email": "contact@rasuwacommunityhospital.com",
+        "website": "http://rasuwacommunityhospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

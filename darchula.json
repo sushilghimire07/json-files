@@ -1,0 +1,40 @@
+[
+    {
+      "name": "District Hospital Darchula",
+      "location": "Khalanga, Mahakali Municipality, Darchula",
+      "contact_info": {
+        "phone": "+977-9849912446",
+        "website": "http://darchulahospital.gov.np"
+      },
+      "type": "Hospital",
+      "emergency_service": true
+    },
+    {
+      "name": "Gokuleshwar Hospital",
+      "location": "Gokuleshwar, Shailyashikhar Municipality, Darchula",
+      "contact_info": {
+        "phone": "Not specified"
+      },
+      "type": "Hospital",
+      "emergency_service": true
+    },
+    {
+      "name": "Basic Hospital in Naaugad Rural Municipality",
+      "location": "Naugad, Darchula",
+      "contact_info": {
+        "phone": "Not specified"
+      },
+      "type": "Hospital",
+      "emergency_service": true
+    },
+    {
+      "name": "Basic Hospital in Malikarjun Rural Municipality",
+      "location": "Malikarjun, Darchula",
+      "contact_info": {
+        "phone": "Not specified"
+      },
+      "type": "Hospital",
+      "emergency_service": true
+    }
+  ]
+  

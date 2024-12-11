@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Nawalparasi District Hospital",
+      "location": "Prithvi Chowk, Nawalparasi",
+      "contact_info": {
+        "phone": "+977 76 520010",
+        "email": "info@districthospitalnawalparasi.com",
+        "website": "http://districthospitalnawalparasi.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Lumbini Provincial Hospital",
+      "location": "Parasi-1, Nawalparasi",
+      "contact_info": {
+        "phone": "+977 76 420344",
+        "email": "lumbinihospitalnp@gmail.com",
+        "website": "http://lumbinihospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Doti District Hospital",
+      "location": "Silgadi, Doti",
+      "contact_info": {
+        "phone": "+977-094-420043",
+        "website": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "hospital"
+    },
+    {
+      "name": "Dipayal Hospital",
+      "location": "Dipayal, Doti",
+      "contact_info": {
+        "phone": "Not specified",
+        "website": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "hospital"
+    },
+    {
+      "name": "Dr. Pradhan's Surgical Clinic",
+      "location": "Not specified, Doti",
+      "contact_info": {
+        "phone": "Not specified",
+        "website": "Not specified"
+      },
+      "emergency_service": false,
+      "type": "clinic"
+    }
+  ]
+  

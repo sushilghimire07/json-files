@@ -1,0 +1,49 @@
+[
+    {
+      "name": "Mantra Hospital",
+      "location": "Mahendranagar, Kanchanpur",
+      "contact_info": {
+        "phone": "Not specified",
+        "website": "https://mantrahospital.com.np"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "District Hospital Kanchanpur",
+      "location": "Mahendranagar, Kanchanpur",
+      "contact_info": {
+        "phone": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Shuklaphanta Municipal Hospital",
+      "location": "Shuklaphanta Municipality, Kanchanpur",
+      "contact_info": {
+        "phone": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Pipaladi Health Post",
+      "location": "Suklaphanta Municipality, Kanchanpur",
+      "contact_info": {
+        "phone": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "Health Post"
+    },
+    {
+      "name": "Tribhuvan Health Post",
+      "location": "Punarbas Municipality, Kanchanpur",
+      "contact_info": {
+        "phone": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "Health Post"
+    }
+  ]
+  

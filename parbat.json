@@ -1,0 +1,31 @@
+[
+    {
+      "name": "Parbat Hospital",
+      "location": "Kushma, Parbat",
+      "contact_info": {
+        "phone": "+977-9860889907",
+        "website": "https://parbathospital.gandaki.gov.np"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Shree Harsha Hospital",
+      "location": "Kushma, Parbat",
+      "contact_info": {
+        "phone": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Kushma Health Post",
+      "location": "Kushma, Parbat",
+      "contact_info": {
+        "phone": "Not specified"
+      },
+      "emergency_service": false,
+      "type": "Health Post"
+    }
+  ]
+  

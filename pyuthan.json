@@ -1,0 +1,24 @@
+[
+    {
+      "name": "Pyuthan Hospital",
+      "location": "Hospital Road, Pyuthan 22300, Nepal",
+      "contact_info": {
+        "phone": "+977 86-460010",
+        "website": "http://dhopyuthan.gov.np"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Gurkha Hospital Pvt. Ltd.",
+      "location": "Ghorahi, Dang (Serving Pyuthan and nearby areas)",
+      "contact_info": {
+        "phone": "+977 82-563414",
+        "email": "docgorkhahospital@gmail.com",
+        "website": "https://gorkhagroup.org.np"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

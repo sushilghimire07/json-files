@@ -1,0 +1,36 @@
+[
+    {
+      "name": "Madhyapur Hospital",
+      "location": "Janakpur, Dhanusa",
+      "contact_info": {
+        "phone": "+977 41 520123",
+        "email": "info@madhyapurhospital.com",
+        "website": "http://madhyapurhospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Saraswati Hospital",
+      "location": "Janakpur, Dhanusa",
+      "contact_info": {
+        "phone": "+977 41 520654",
+        "email": "contact@saraswathospital.com",
+        "website": "http://saraswathospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Bhanu Memorial Hospital",
+      "location": "Janakpur, Dhanusa",
+      "contact_info": {
+        "phone": "+977 41 520789",
+        "email": "contact@bhanumemorialhospital.com",
+        "website": "http://bhanumemorialhospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

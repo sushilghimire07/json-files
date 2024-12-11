@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Navajeevan Aspatal Pvt. Ltd",
+      "location": "Dhangadhi-4, Kailali",
+      "contact_info": {
+        "phone": "091-521233, 091-521733",
+        "email": "info@hamrodoctor.com",
+        "website": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Geta Eye Hospital",
+      "location": "Geta VDC, Kailali",
+      "contact_info": {
+        "phone": "Not specified",
+        "email": "Not specified",
+        "website": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "Eye Hospital"
+    },
+    {
+      "name": "Dhangadhi Eye Care Centre",
+      "location": "Dhangadhi, Kailali",
+      "contact_info": {
+        "phone": "Not specified",
+        "email": "Not specified",
+        "website": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "Eye Care Centre"
+    },
+    {
+      "name": "Tikapur Eye Care Centre",
+      "location": "Tikapur, Kailali",
+      "contact_info": {
+        "phone": "Not specified",
+        "email": "Not specified",
+        "website": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "Eye Care Centre"
+    }
+  ]
+  

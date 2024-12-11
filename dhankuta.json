@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Dhankuta District Hospital",
+      "location": "Hulak Tole & Thadobazar Street, Dhankuta 56800",
+      "contact_info": {
+        "phone": "+977 026-520135",
+        "email": "Not available",
+        "website": "Not available"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Panchakanya Hospital",
+      "location": "Dhankuta, Eastern Nepal",
+      "contact_info": {
+        "phone": "+977 026-520150",
+        "email": "Not available",
+        "website": "Not available"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

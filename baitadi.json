@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Baitadi District Hospital",
+      "location": "Dashrathchand Municipality, Baitadi",
+      "contact_info": {
+        "phone": "Not found",
+        "website": "Not available"
+      },
+      "emergency_service": true
+    },
+    {
+      "name": "Shree Harsha Hospital",
+      "location": "Baitadi District",
+      "contact_info": {
+        "phone": "Not available",
+        "website": "Not available"
+      },
+      "emergency_service": true
+    },
+    {
+      "name": "Baitadi General Hospital",
+      "location": "Baitadi District",
+      "contact_info": {
+        "phone": "Not available",
+        "website": "Not available"
+      },
+      "emergency_service": true
+    },
+    {
+      "name": "Gokulesh Hospital",
+      "location": "Gokulesh, Baitadi",
+      "contact_info": {
+        "phone": "Not available",
+        "website": "Not available"
+      },
+      "emergency_service": true
+    }
+  ]
+  

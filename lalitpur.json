@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Patan Hospital",
+      "location": "Patan, Lalitpur",
+      "contact_info": {
+        "phone": "+977 1 5536399",
+        "email": "info@patanhospital.com",
+        "website": "http://patanhospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Lalitpur Hospital",
+      "location": "Lagankhel, Lalitpur",
+      "contact_info": {
+        "phone": "+977 1 5522735",
+        "email": "contact@lalitpurhospital.com",
+        "website": "http://lalitpurhospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Shree Harsha Hospital",
+      "location": "Patan, Lalitpur",
+      "contact_info": {
+        "phone": "+977 1 5530200",
+        "email": "info@shreeharshahospital.com",
+        "website": "http://shreeharshahospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Buddha Hospital",
+      "location": "Buddhanagar, Lalitpur",
+      "contact_info": {
+        "phone": "+977 1 5544222",
+        "email": "contact@buddhahospital.com",
+        "website": "http://buddhahospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

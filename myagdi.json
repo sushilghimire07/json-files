@@ -1,0 +1,34 @@
+[
+    {
+      "name": "Beni Hospital",
+      "location": "Beni, Myagdi",
+      "contact_info": {
+        "phone": "Not specified",
+        "email": "Not specified",
+        "website": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "Hospital",
+      "services": [
+        "Complex surgeries",
+        "Surgical delivery",
+        "Digital X-ray",
+        "Dental and pharmaceutical services"
+      ]
+    },
+    {
+      "name": "Shree Harsha Hospital",
+      "location": "Beni, Myagdi",
+      "contact_info": {
+        "phone": "Not specified",
+        "email": "Not specified",
+        "website": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "Private Hospital",
+      "services": [
+        "General medical services"
+      ]
+    }
+  ]
+  

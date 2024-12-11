@@ -1,0 +1,36 @@
+[
+    {
+      "name": "Sindhupalchowk District Hospital",
+      "location": "Chautara, Sindhupalchowk",
+      "contact_info": {
+        "phone": "+977 11 660121",
+        "email": "info@sindhupalchowkdistricthospital.com",
+        "website": "http://sindhupalchowkdistricthospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Charikot Hospital",
+      "location": "Charikot, Sindhupalchowk",
+      "contact_info": {
+        "phone": "+977 11 660231",
+        "email": "contact@charikothospital.com",
+        "website": "http://charikothospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Bhumlu Hospital",
+      "location": "Bhumlu, Sindhupalchowk",
+      "contact_info": {
+        "phone": "+977 11 660055",
+        "email": "contact@bhumluhospital.com",
+        "website": "http://bhumluhospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

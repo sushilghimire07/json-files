@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Terhathum District Hospital",
+      "location": "Terhathum, Nepal",
+      "contact_info": {
+        "phone": "Not listed",
+        "email": "Not listed",
+        "website": "Not listed"
+      },
+      "emergency_service": true,
+      "type": "District Hospital"
+    },
+    {
+      "name": "Khadbari Hospital",
+      "location": "Khadbari, Terhathum",
+      "contact_info": {
+        "phone": "Not listed",
+        "email": "Not listed",
+        "website": "Not listed"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

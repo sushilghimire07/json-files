@@ -1,0 +1,25 @@
+[
+    {
+      "name": "District Hospital Dolpa",
+      "location": "Dolpa District, Karnali Province, Nepal",
+      "contact_info": {
+        "phone": "Not specified",
+        "email": "Not specified",
+        "website": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Nyaya Health Nepal (Bayalpata Hospital)",
+      "location": "Dolpa (Bayalpata)",
+      "contact_info": {
+        "phone": "Not specified",
+        "email": "Not specified",
+        "website": "http://www.nyh.org.np"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Dhaulagiri Zonal Hospital",
+      "location": "Hospital Road, Baglung",
+      "contact_info": {
+        "phone": "068-520288",
+        "website": "http://www.dzh.gov.np"
+      },
+      "emergency_service": true,
+      "type": "hospital"
+    },
+    {
+      "name": "Dhaulagiri Hospital",
+      "location": "Madan Marg, Baglung",
+      "contact_info": {
+        "phone": "068-520288"
+      },
+      "emergency_service": true,
+      "type": "hospital"
+    },
+    {
+      "name": "Muktinath Hospital",
+      "location": "Baglung",
+      "contact_info": {
+        "phone": "068-522269"
+      },
+      "emergency_service": true,
+      "type": "hospital"
+    },
+    {
+      "name": "Nilgiri Hospital",
+      "location": "Baglung",
+      "contact_info": {
+        "phone": "068-521813"
+      },
+      "emergency_service": true,
+      "type": "hospital"
+    },
+    {
+      "name": "Dhaulagiri Ayurveda Aausadaliya",
+      "location": "Baglung",
+      "contact_info": {
+        "phone": "068-520031"
+      },
+      "emergency_service": false,
+      "type": "clinic"
+    },
+    {
+      "name": "Dhaulagiri Eye Hospital",
+      "location": "Baglung",
+      "contact_info": {
+        "phone": "068-520137"
+      },
+      "emergency_service": false,
+      "type": "hospital"
+    }
+  ]
+  

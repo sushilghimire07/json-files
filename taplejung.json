@@ -1,0 +1,25 @@
+[
+    {
+      "name": "District Hospital, Taplejung",
+      "location": "Taplejung",
+      "contact_info": {
+        "phone": "+977-27-421070",
+        "email": "Not listed",
+        "website": "Not listed"
+      },
+      "emergency_service": true,
+      "type": "District Hospital"
+    },
+    {
+      "name": "Pathibhara Hospital",
+      "location": "Pathibhara",
+      "contact_info": {
+        "phone": "Not listed",
+        "email": "Not listed",
+        "website": "Not listed"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Phaplu Hospital",
+      "location": "Solududhakunda-4, Solukhumbu, Nepal",
+      "contact_info": {
+        "phone": "+977 038-520188",
+        "email": "soluhsp78@gmail.com",
+        "website": "http://phapluhospital.org.np"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Lukla Hospital",
+      "location": "Lukla, Solukhumbu, Nepal",
+      "contact_info": {
+        "phone": "+977 038-520188",
+        "website": "http://www.luklahospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Solu District Hospital",
+      "location": "Dudhakunda, Solukhumbu, Nepal",
+      "contact_info": {
+        "phone": "+977 038-520188"
+      },
+      "emergency_service": true,
+      "type": "District Hospital"
+    }
+  ]
+  

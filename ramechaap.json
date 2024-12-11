@@ -1,0 +1,36 @@
+[
+    {
+      "name": "Ramechhap District Hospital",
+      "location": "Manthali, Ramechhap",
+      "contact_info": {
+        "phone": "+977 11 670210",
+        "email": "info@ramechhapdistricthospital.com",
+        "website": "http://ramechhapdistricthospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Shree Harsha Hospital",
+      "location": "Manthali, Ramechhap",
+      "contact_info": {
+        "phone": "+977 11 670347",
+        "email": "contact@shreeharshahospital.com",
+        "website": "http://shreeharshahospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Buddha Hospital",
+      "location": "Manthali, Ramechhap",
+      "contact_info": {
+        "phone": "+977 11 670505",
+        "email": "info@buddhahospital.com",
+        "website": "http://buddhahospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

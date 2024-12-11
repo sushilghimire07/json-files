@@ -1,0 +1,36 @@
+[
+    {
+      "name": "Makwanpur District Hospital",
+      "location": "Hetauda, Makwanpur",
+      "contact_info": {
+        "phone": "+977 57 520201",
+        "email": "info@makwanpurdistricthospital.com",
+        "website": "http://makwanpurdistricthospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Hetauda Hospital",
+      "location": "Hetauda, Makwanpur",
+      "contact_info": {
+        "phone": "+977 57 520115",
+        "email": "contact@hetaudahospital.com",
+        "website": "http://hetaudahospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Bhairahawa Hospital",
+      "location": "Hetauda, Makwanpur",
+      "contact_info": {
+        "phone": "+977 57 520212",
+        "email": "info@bhairawahospital.com",
+        "website": "http://bhairawahospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Dailekh District Hospital",
+      "location": "Narayan, Dailekh, Karnali Pradesh, Nepal",
+      "contact_info": {
+        "phone": "Not specified",
+        "email": "Not specified",
+        "website": "Not specified"
+      },
+      "type": "hospital",
+      "emergency_service": true
+    },
+    {
+      "name": "Dullu Hospital",
+      "location": "Dullu, Dailekh, Karnali Pradesh, Nepal",
+      "contact_info": {
+        "phone": "Not specified",
+        "email": "Not specified",
+        "website": "Not specified"
+      },
+      "type": "hospital",
+      "emergency_service": true
+    }
+  ]
+  

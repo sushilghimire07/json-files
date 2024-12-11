@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Udayapur District Hospital",
+      "location": "Gaighat, Udayapur, Nepal",
+      "contact_info": {
+        "phone": "+977 35 420187",
+        "email": "info@udayapurdistricthospital.com",
+        "website": "http://udayapurdistricthospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "District Health Office, Udayapur",
+      "location": "Triyuga, Udayapur, Nepal",
+      "contact_info": {
+        "phone": "+977 9852835614",
+        "email": "info@districthealthofficeudayapur.com",
+        "website": "http://districthealthofficeudayapur.com"
+      },
+      "emergency_service": false,
+      "type": "Government Office"
+    }
+  ]
+  

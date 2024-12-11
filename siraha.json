@@ -1,0 +1,36 @@
+[
+    {
+      "name": "Siraha District Hospital",
+      "location": "Siraha, Siraha",
+      "contact_info": {
+        "phone": "+977 33 520212",
+        "email": "info@sirahadistricthospital.com",
+        "website": "http://sirahadistricthospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Siddhartha Hospital",
+      "location": "Lahan, Siraha",
+      "contact_info": {
+        "phone": "+977 33 520343",
+        "email": "contact@siddharthahospital.com",
+        "website": "http://siddharthahospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Sushil Koirala Memorial Hospital",
+      "location": "Siraha, Siraha",
+      "contact_info": {
+        "phone": "+977 33 520645",
+        "email": "info@sushilkoiralahospital.com",
+        "website": "http://sushilkoiralahospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

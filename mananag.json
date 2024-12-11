@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Manang District Hospital",
+      "location": "Chame, Manang",
+      "contact_info": {
+        "phone": "+977 66 420201",
+        "email": "info@manangdistricthospital.com",
+        "website": "http://manangdistricthospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Narphu Valley Health Post",
+      "location": "Narphu Valley, Manang",
+      "contact_info": {
+        "phone": "+977 66 420229",
+        "email": "contact@narphuhealthpost.com",
+        "website": "http://narphuhealthpost.com"
+      },
+      "emergency_service": true,
+      "type": "Health Post"
+    }
+  ]
+  

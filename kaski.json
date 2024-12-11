@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Kaski District Hospital",
+      "location": "Pokhara-6, Kaski",
+      "contact_info": {
+        "phone": "+977 61 533464",
+        "email": "info@kaskidistricthospital.com",
+        "website": "http://kaskidistricthospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Western Regional Hospital",
+      "location": "Pokhara-9, Kaski",
+      "contact_info": {
+        "phone": "+977 61 526624",
+        "email": "wrh@wrh.com.np",
+        "website": "http://wrh.com.np"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

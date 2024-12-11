@@ -1,0 +1,36 @@
+[
+    {
+      "name": "Saptari District Hospital",
+      "location": "Rajbiraj, Saptari",
+      "contact_info": {
+        "phone": "+977 33 520263",
+        "email": "info@saptaridistricthospital.com",
+        "website": "http://saptaridistricthospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Gajendra Memorial Hospital",
+      "location": "Rajbiraj, Saptari",
+      "contact_info": {
+        "phone": "+977 33 520433",
+        "email": "contact@gajendramemorialhospital.com",
+        "website": "http://gajendramemorialhospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Janaki Health Care Hospital",
+      "location": "Rajbiraj, Saptari",
+      "contact_info": {
+        "phone": "+977 33 520650",
+        "email": "contact@janakihealthcare.com",
+        "website": "http://janakihealthcare.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Ilam Hospital",
+      "location": "Ilam, Nepal",
+      "contact_info": {
+        "phone": "+977 27 523044",
+        "email": "Not listed",
+        "website": "https://www.nepalyp.com/category/Hospitals/city:Ilam"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Ilam District Hospital",
+      "location": "Ilam, Nepal",
+      "contact_info": {
+        "phone": "Not listed",
+        "email": "Not listed",
+        "website": "Not available"
+      },
+      "emergency_service": true,
+      "type": "District Hospital"
+    }
+  ]
+  

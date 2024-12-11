@@ -1,0 +1,36 @@
+[
+    {
+      "name": "Dhading District Hospital",
+      "location": "Dhading Besi, Dhading",
+      "contact_info": {
+        "phone": "+977 10 520021",
+        "email": "info@dhadingdistricthospital.com",
+        "website": "http://dhadingdistricthospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Ganesh Hospital",
+      "location": "Dhading Besi, Dhading",
+      "contact_info": {
+        "phone": "+977 10 520100",
+        "email": "contact@ganeshhospital.com",
+        "website": "http://ganeshhospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Sita Hospital",
+      "location": "Dhading Besi, Dhading",
+      "contact_info": {
+        "phone": "+977 10 520325",
+        "email": "contact@sitahospital.com",
+        "website": "http://sitahospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

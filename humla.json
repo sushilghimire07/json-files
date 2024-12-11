@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Humla District Hospital",
+      "location": "Simikot, Humla",
+      "contact_info": {
+        "phone": "+977 87-680024",
+        "website": "https://khojamnepal.com/listing/humla-district-hospital/"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "PHASE Health Post (Maila)",
+      "location": "Maila, Humla",
+      "contact_info": {
+        "phone": "Not available"
+      },
+      "emergency_service": true,
+      "type": "Health Post"
+    }
+  ]
+  

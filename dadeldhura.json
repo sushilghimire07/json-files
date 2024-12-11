@@ -1,0 +1,34 @@
+[
+    {
+      "name": "Dadeldhura Hospital",
+      "location": "Dadeldhura",
+      "contact_info": {
+        "phone": "096-410372",
+        "email": "dadeldhura.hospital@gmail.com",
+        "website": "https://dadeldhurahospital.gov.np"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "HDCS-TEAM Hospital",
+      "location": "Dadeldhura, Nepal",
+      "contact_info": {
+        "phone": "Not specified",
+        "website": "https://hdcs-team-hospital-dadeldhura-nepal.servicereef.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Dhadeldhura Hospital",
+      "location": "Dhadeldhura, Dadeldhura",
+      "contact_info": {
+        "phone": "096-420330",
+        "website": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

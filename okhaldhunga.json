@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Okhaldhunga Community Hospital",
+      "location": "Siddhicharan, Okhaldhunga",
+      "contact_info": {
+        "phone": "+977 37-520176",
+        "website": "http://umn.org.np"
+      },
+      "emergency_service": true,
+      "type": "General Hospital"
+    },
+    {
+      "name": "Mission Hospital",
+      "location": "Germany / Hamburg, Okhaldhunga",
+      "contact_info": {
+        "phone": "+977 37-520176"
+      },
+      "emergency_service": true,
+      "type": "General Hospital"
+    }
+  ]
+  

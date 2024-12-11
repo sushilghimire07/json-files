@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Mahottari District Hospital",
+      "location": "Jaleshwar, Mahottari",
+      "contact_info": {
+        "phone": "+977 41 520040",
+        "email": "info@mahottaridistricthospital.com",
+        "website": "http://mahottaridistricthospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Ganga Hospital",
+      "location": "Jaleshwar, Mahottari",
+      "contact_info": {
+        "phone": "+977 41 520138",
+        "email": "contact@gangahospital.com",
+        "website": "http://gangahospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

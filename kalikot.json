@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Raku Health Post",
+      "location": "Sanni Tribeni, Kalikot, Karnali Pradesh",
+      "contact_info": {
+        "phone": "Not specified",
+        "email": "Not specified",
+        "website": "Not specified"
+      },
+      "emergency_service": false,
+      "type": "Clinic"
+    },
+    {
+      "name": "Hospital for Infectious Diseases",
+      "location": "Mamna, Khandachakra Municipality-1, Kalikot",
+      "contact_info": {
+        "phone": "Not specified",
+        "email": "Not specified",
+        "website": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

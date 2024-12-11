@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Jajarkot District Hospital",
+      "location": "Khalanga, Jajarkot",
+      "contact_info": {
+        "phone": "Not specified",
+        "email": "Not specified",
+        "website": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Pajaru Health Post",
+      "location": "Chedegadh Municipality, Jajarkot",
+      "contact_info": {
+        "phone": "Not specified",
+        "email": "Not specified",
+        "website": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "Health Post"
+    }
+  ]
+  

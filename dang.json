@@ -1,0 +1,36 @@
+[
+    {
+      "name": "Rapti Eye Hospital",
+      "location": "Tulsipur-4, Rakshyachaur, Dang",
+      "contact_info": {
+        "phone": "+977-82-520165",
+        "email": "info@raptieyehospital.org",
+        "website": "http://raptieyehospital.org"
+      },
+      "emergency_service": true,
+      "type": "hospital"
+    },
+    {
+      "name": "Lamahi Eye Hospital",
+      "location": "Lamahi, Dang",
+      "contact_info": {
+        "phone": "+977-82-520322",
+        "email": "info@lamahieyehospital.org",
+        "website": "http://lamahieyehospital.org"
+      },
+      "emergency_service": true,
+      "type": "hospital"
+    },
+    {
+      "name": "Chhanda (Kalebabu)-Narayani Eye Hospital",
+      "location": "Bahadurgunj, Kapilvastu (serves Dang area)",
+      "contact_info": {
+        "phone": "+977-82-520455",
+        "email": "info@chhandaeye.org",
+        "website": "http://chhandaeye.org"
+      },
+      "emergency_service": true,
+      "type": "hospital"
+    }
+  ]
+  

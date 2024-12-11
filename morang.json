@@ -1,0 +1,36 @@
+[
+    {
+      "name": "Koshi Hospital",
+      "location": "Biratnagar, Morang",
+      "contact_info": {
+        "phone": "+977 21 525646",
+        "email": "info@koshihospital.com",
+        "website": "https://koshihospital.com.np"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Birat Medical College Teaching Hospital",
+      "location": "Biratnagar, Morang",
+      "contact_info": {
+        "phone": "+977 21 540024",
+        "email": "info@bmcteachinghospital.com",
+        "website": "https://bmcteachinghospital.com"
+      },
+      "emergency_service": true,
+      "type": "Teaching Hospital"
+    },
+    {
+      "name": "Godawari Hospital",
+      "location": "Urlabari, Morang",
+      "contact_info": {
+        "phone": "+977 21 541972",
+        "email": "admin@godawarihospital.com.np",
+        "website": "https://godawarihospital.com.np"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

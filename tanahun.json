@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Tanahun District Hospital",
+      "location": "Damauli, Tanahun",
+      "contact_info": {
+        "phone": "+977 66 520065",
+        "email": "info@tanahundistricthospital.com",
+        "website": "http://tanahundistricthospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Bishal Hospital",
+      "location": "Bishal Nagar, Damauli, Tanahun",
+      "contact_info": {
+        "phone": "+977 66 520412",
+        "email": "contact@bishalhospital.com",
+        "website": "http://bishalhospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  

@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Rolpa District Hospital",
+      "location": "Rolpa",
+      "contact_info": {
+        "phone": "Not specified",
+        "email": "Not specified",
+        "website": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Pang Health Post",
+      "location": "Pang, Rolpa",
+      "contact_info": {
+        "phone": "Not specified",
+        "email": "Not specified",
+        "website": "Not specified"
+      },
+      "emergency_service": true,
+      "type": "Health Post"
+    }
+  ]
+  

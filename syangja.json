@@ -1,0 +1,25 @@
+[
+    {
+      "name": "Syangja District Hospital",
+      "location": "Syangja Bazar, Syangja",
+      "contact_info": {
+        "phone": "+977 63 520112",
+        "email": "info@syangjadistricthospital.com",
+        "website": "http://syangjadistricthospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    },
+    {
+      "name": "Phedikhola Hospital",
+      "location": "Phedikhola, Syangja",
+      "contact_info": {
+        "phone": "+977 63 431201",
+        "email": "contact@phedikholahospital.com",
+        "website": "http://phedikholahospital.com"
+      },
+      "emergency_service": true,
+      "type": "Hospital"
+    }
+  ]
+  
