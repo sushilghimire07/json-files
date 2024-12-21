@@ -1,0 +1,24 @@
+# Nepal Hospitals Dataset
+
+This dataset provides detailed information about various hospitals across Nepal, including their locations, contact details, services, and types.
+
+## Dataset Overview
+
+The dataset is structured as a JSON array, where each element represents a hospital with specific attributes.
+
+### JSON Structure
+
+Each hospital entry in the JSON array has the following structure:
+
+```json
+{
+  "name": "Hospital Name",
+  "location": "City, District",
+  "contact_info": {
+    "phone": "Phone Number",
+    "email": "Email Address",
+    "website": "Website URL"
+  },
+  "emergency_service": true,
+  "type": "Hospital Type"
+}
